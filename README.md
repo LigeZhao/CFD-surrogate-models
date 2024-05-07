@@ -9,8 +9,6 @@ CFD is a widely employed method for simulating building environments, but it is 
 # Repository structure
 `python code`: Runnable Python code in Jupyter Notebooks
 
-`CFD model`: Case CFD models in ANSYS FLUENT
-
 `data`: Input and output data, including CFD results and prediction results
 
 # Feedback
