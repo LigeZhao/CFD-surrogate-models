@@ -11,5 +11,7 @@ CFD is a widely employed method for simulating building environments, but it is 
 
 `data`: Input and output data, including CFD results and prediction results
 
+`CFD model`: two CFD models investigated in this paper, including original case and HKUST academic building
+
 # Feedback
 Feel free to send any questions/feedback to: [Lige Zhao](lzhaobc@connect.ust.hk), [Qi Zhou](qizhou@ust.hk) or [Zhe Wang](cezhewang@ust.hk)
